@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53178042-b12d-4da4-8bef-64e17c6d23d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fonts/Pacifico-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SourceSansPro-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u6r6h0SMw5FlGzoHsHRa1ho4bf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --build-cache" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="F:/01_Coding/Flutter/mi_card" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--build-cache" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.F:/01_Coding/Flutter/mi_card" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53178042-b12d-4da4-8bef-64e17c6d23d9" name="Default Changelist" comment="" />
+      <created>1623996706346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623996706346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="111" key="FileChooserDialogImpl" timestamp="1623998284857">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="605" y="111" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623998284857" />
+    <state width="1186" height="179" key="GridCell.Tab.0.bottom" timestamp="1624435244198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1186" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1624435244198" />
+    <state width="1186" height="179" key="GridCell.Tab.0.center" timestamp="1624435244197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1186" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1624435244197" />
+    <state width="1186" height="179" key="GridCell.Tab.0.left" timestamp="1624435244197">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1186" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1624435244197" />
+    <state width="1186" height="179" key="GridCell.Tab.0.right" timestamp="1624435244198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1186" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1624435244198" />
+    <state x="323" y="107" key="IDE.errors.dialog" timestamp="1624001119981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="107" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1624001119981" />
+    <state x="244" y="9" key="SettingsEditor" timestamp="1623998995866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="244" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1623998995866" />
+    <state x="400" y="47" width="850" height="645" key="new project wizard" timestamp="1624351913035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="47" width="850" height="645" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1624351913035" />
+    <state x="405" y="51" width="672" height="677" key="run.anything.popup" timestamp="1624001223924">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="51" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1624001223924" />
+    <state x="406" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1624001190381">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="406" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1624001190381" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mi_card$F__01_Coding_Flutter_mi_card.ic" NAME="$PROJECT_DIR$/../mi_card Coverage Results" MODIFIED="1624005464990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
